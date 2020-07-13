@@ -4,15 +4,21 @@
 
 #### 📖 About me
 ```
-I'm a professional dedicated to improving my technical skills and sharing knowledge with everyone, whenever possible.
+I'm a professional dedicated to improving my technical skills
+and sharing knowledge with everyone, whenever possible.
 I have some years of experience in web development and counting ...
 
-Hobbies
-I have some hobbies, like: 🏀 playing basketball, 🛹 skateboarding, 🎨 graffiti, ✍🏿 digital art, 🏋🏿 gym and others.
+I have some hobbies, like:
+🏀 playing basketball,
+🛹 skateboarding,
+🎨 graffiti,
+✍🏿 digital art,
+🏋🏿 gym and others.
 
 Let's study, let's learn, let's share our knowledge forever!
 That's all, folks!
 ```
+<br>
 
 #### ☎ Contact
 + Phone number: (11) 94390-2438
