@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2 align="center">Hello darlings, my name is Caio 🤜🏿🤛🏻</h2>
 
-<!--
-**caiohenrique-developer/caiohenrique-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+#### 📖 About me
+```
+I'm a professional dedicated to improving my technical skills and sharing knowledge with everyone, whenever possible.
+I have some years of experience in web development and counting ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies
+I have some hobbies, like: 🏀 playing basketball, 🛹 skateboarding, 🎨 graffiti, ✍🏿 digital art, 🏋🏿 gym and others.
+
+Let's study, let's learn, let's share our knowledge forever!
+That's all, folks!
+```
+
+#### ☎ Contact
++ Phone number: (11) 94390-2438
++ In: [Caio Henrique](https://www.linkedin.com/in/caio-caldas-024627171/)
++ E-mail: <a href="mailto:caiohenrique.developer@gmail.com">caiohenrique.developer@gmail.com</a>
+
+<br>
+
+---
+<blockquote align="center">“Always running in search of the goals!”</blockquote>
