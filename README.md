@@ -21,10 +21,9 @@ That's all, folks!
 
 <br>
 
-
 #### ☎ Contact
-[![Phone Badge](https://img.shields.io/badge/Phone-(11)943902438-yellow?logo=whatsapp&logoColor=brightgreen](tel:5511943902438)
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-Caio%20Henrique-yellow?logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/caio-henrique-024627171/)](https://www.linkedin.com/in/caio-henrique-024627171/)
+[![Phone Badge](https://img.shields.io/badge/Phone-(11)943902438-yellow?logo=whatsapp&logoColor=brightgreen&link=tel:5511943902438)](tel:5511943902438)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Caio%20Henrique-yellow?logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/caio-henrique-024627171/)](https://www.linkedin.com/in/caio-henrique-024627171/)
 [![E-mail Badge](https://img.shields.io/badge/Email-caiohenrique.developer@gmail.com-yellow?logo=gmail&logoColor=red&link=mailto:caiohenrique.developer@gmail.com)](mailto:caiohenrique.developer@gmail.com)
 
 <br>
