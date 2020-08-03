@@ -1,5 +1,3 @@
-<img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="300"/>
-
 <h2 align="center">Hello darlings, my name is Caio 🤜🏿🤛🏻</h2>
 
 <br>
@@ -22,6 +20,8 @@ That's all, folks!
 ```
 
 <br>
+
+<img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="350" align="left" />
 
 #### ☎ Contact
 [![Phone Badge](https://img.shields.io/badge/Phone-(11)943902438-yellow?logo=whatsapp&logoColor=brightgreen&link=tel:5511943902438)](tel:5511943902438)
