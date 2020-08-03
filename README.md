@@ -1,4 +1,4 @@
-<img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/cDVLOPr/place-of-studies/blob/master/assets/octocat.gif" width="300"/>
+<img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="300"/>
 
 <h2 align="center">Hello darlings, my name is Caio 🤜🏿🤛🏻</h2>
 
