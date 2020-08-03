@@ -1,4 +1,4 @@
-<h2 align="center">Wazzup guys, i'm Caio <img src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif" width="25px">![1](https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif)</h2>
+<h2 align="center">Wazzup guys, i'm Caio <img src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif" width="25px"></h2>
 
 <br>
 
