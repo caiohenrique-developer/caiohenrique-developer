@@ -8,12 +8,15 @@ I'm a professional dedicated to improving my technical skills
 and sharing knowledge with everyone, whenever possible.
 I have some years of experience in web development and counting ...
 
-I have some hobbies, like:
-🏀 playing basketball,
-🛹 skateboarding,
-🎨 graffiti,
-✍🏿 digital art,
-🏋🏿 gym and others.
+I have some hobbies like:
+🏀 - basketball,
+🛹 - skateboarding,
+🎨 - graffiti,
+✍🏿 - digital art,
+🏋🏿 - gym,
+📸 - photography,
+📚 - books,
+🗣️ - english and others.
 
 Let's study, let's learn, let's share our knowledge forever!
 That's all, folks!
