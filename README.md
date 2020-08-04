@@ -1,4 +1,4 @@
-<h2 align="center">Wazzup guys, i'm Caio <img src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif" width="25px"></h2>
+<h2 align="center">Wazzup guys, i'm Caio <img src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif" width="22"></h2>
 
 <br>
 
@@ -23,10 +23,10 @@ That's all, folks!
 
 <img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="350" align="left" />
 
-#### ☎ Contact
-[![Phone Badge](https://img.shields.io/badge/Phone-(11)943902438-yellow?logo=whatsapp&logoColor=brightgreen&link=tel:5511943902438)](tel:5511943902438)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Caio%20Henrique-yellow?logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/caio-henrique-024627171/)](https://www.linkedin.com/in/caio-henrique-024627171/)
-[![E-mail Badge](https://img.shields.io/badge/Email-caiohenrique.developer@gmail.com-yellow?logo=gmail&logoColor=red&link=mailto:caiohenrique.developer@gmail.com)](mailto:caiohenrique.developer@gmail.com)
+#### ☎ Contact me
+[![Phone Badge](https://img.shields.io/badge/(11)943902438-9cf?logo=whatsapp&logoColor=white&link=tel:5511943902438&style=flat-square)](tel:5511943902438)
+[![LinkedIn Badge](https://img.shields.io/badge/Caio%20Henrique-9cf?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-henrique-024627171/&style=flat-square)](https://www.linkedin.com/in/caio-henrique-024627171/)
+[![E-mail Badge](https://img.shields.io/badge/caiohenrique.developer@gmail.com-9cf?logo=gmail&logoColor=white&link=mailto:caiohenrique.developer@gmail.com&style=flat-square)](mailto:caiohenrique.developer@gmail.com)
 
 <br>
 
