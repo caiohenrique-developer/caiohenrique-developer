@@ -81,5 +81,5 @@ That's all, folks!
 </a>
 
 <a href="https://github.com/caiohenrique-developer/react-deploy">
-  <img align="center" src="video2.webm" width="300" />
+  <img align="center" src="video2.gif" width="300" />
 </a>
