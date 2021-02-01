@@ -42,34 +42,44 @@ That's all, folks!
 
 <br>
 <br>
-
-Atualizando...
-
-## My GitHub Stats 📈
-![My Stats](https://github-readme-stats.vercel.app/api?username=samueldenani&theme=radical&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_rank=true)
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samueldenani&theme=radical&custom_title=The%20Languages%20I%20Like%20to%20Use&langs_count=8&layout=compact)
-
-
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-<br>
-<br>
 <br>
 <br>
 
-O meu;;;
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/apsampaio/apsampaio?style=for-the-badge)](https://github.com/apsampaio/apsampaio)
-![Repos Badge](https://badges.pufler.dev/repos/apsampaio?style=for-the-badge)
-
+### My GitHub Stats 📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave)](https://github.com/caiohenrique-developer/place-of-studies)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&layout=compact&theme=maroongold)](https://github.com/caiohenrique-developer/place-of-studies)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Repos Badge](https://badges.pufler.dev/repos/caiohenrique-developer)](https://badges.pufler.dev)
+
+[![Gists Badge](https://badges.pufler.dev/gists/caiohenrique-developer)](https://badges.pufler.dev)
+
+
+
+
+<a href="https://github.com/caiohenrique-developer/place-of-studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
+</a>
+<a href="https://github.com/caiohenrique-developer/react-deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
+</a>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<a href="https://github.com/caiohenrique-developer/react-deploy">
+  <img align="center" src="celular.png" width="300" />
+</a>
+
+<a href="https://github.com/caiohenrique-developer/react-deploy">
+  <img align="center" src="Screenshot_1611797000.png" width="300" />
+</a>
+
+<a href="https://github.com/caiohenrique-developer/react-deploy">
+  <img align="center" src="video2.webm" width="300" />
+</a>
