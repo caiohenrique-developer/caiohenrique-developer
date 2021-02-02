@@ -8,13 +8,16 @@ I'm a professional dedicated to improving my technical skills
 and sharing knowledge with everyone, whenever possible.
 I have some years of experience in web development and counting ...
 
-I have some hobbies like:
+This is my lifestyle:
 🏀 - basketball,
 🛹 - skateboarding,
 🎨 - graffiti,
 ✍🏿 - digital art,
 🏋🏿 - gym,
 📸 - photography,
+👨‍👩‍👧‍👦 - family,
+🎒 - lifestyle,
+👨🏿‍💻 - techs,
 📚 - books,
 🗣️ - english and others.
 
@@ -22,6 +25,29 @@ Let's study, let's learn, let's share our knowledge forever!
 That's all, folks!
 ```
 
+<br>
+<br>
+
+![My GitHub Stats](https://img.shields.io/badge/📈-My%20GitHub%20Stats-blue)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&layout=compact&theme=maroongold)](https://github.com/caiohenrique-developer/place-of-studies)
+
+<br>
+<br>
+
+![Some Repositories](https://img.shields.io/badge/📁-Some%20Repositories-blue)
+
+<a href="https://github.com/caiohenrique-developer/place-of-studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
+</a>
+<a href="https://github.com/caiohenrique-developer/react-deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
+</a>
+
+<br>
+<br>
+<br>
 <br>
 
 <img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="350" align="left" />
