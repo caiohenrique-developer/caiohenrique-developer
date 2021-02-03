@@ -1,4 +1,4 @@
-<h2 align="center">Wazzup guys, i'm Caio <img src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif" width="22"></h2>
+<h2 align="center">Wazzup guys, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
 
 <br>
 
@@ -30,19 +30,24 @@ That's all, folks!
 
 ![My GitHub Stats](https://img.shields.io/badge/📈-My%20GitHub%20Stats-blue)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&layout=compact&theme=maroongold)](https://github.com/caiohenrique-developer/place-of-studies)
+<a href="https://github.com/caiohenrique-developer">
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
+</a>
+<a href="https://github.com/caiohenrique-developer">
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
+</a>
 
+<br>
 <br>
 <br>
 
 ![Some Repositories](https://img.shields.io/badge/📁-Some%20Repositories-blue)
 
 <a href="https://github.com/caiohenrique-developer/place-of-studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
 </a>
 <a href="https://github.com/caiohenrique-developer/react-deploy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
 </a>
 
 <br>
@@ -50,7 +55,7 @@ That's all, folks!
 <br>
 <br>
 
-<img alt="Octocat Gif" title="Octocat Gif" src="https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/octocat.gif" width="350" align="left" />
+<img alt="Octocat Gif" title="Octocat Gif" src="./assets/octocat.gif" width="350" align="left" />
 
 ![Contact me](https://img.shields.io/badge/☎-Contact%20%20me-blue)
 
