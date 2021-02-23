@@ -43,11 +43,16 @@ That's all, folks!
 
 ![Some Repositories](https://img.shields.io/badge/📁-Some%20Repositories-blue)
 
-<a href="https://github.com/caiohenrique-developer/place-of-studies">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
-</a>
 <a href="https://github.com/caiohenrique-developer/react-deploy">
   <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
+</a>
+
+<a href="https://github.com/caiohenrique-developer/be-the-hero-web">
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=be-the-hero-web&theme=synthwave" />
+</a>
+
+<a href="https://github.com/caiohenrique-developer/place-of-studies">
+  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
 </a>
 
 <br>
@@ -63,7 +68,10 @@ That's all, folks!
 [![LinkedIn Badge](https://img.shields.io/badge/Caio%20Henrique-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-henrique-024627171/&style=flat-square)](https://www.linkedin.com/in/caio-henrique-024627171/)
 [![E-mail Badge](https://img.shields.io/badge/caiohenrique.developer@gmail.com-blue?logo=gmail&logoColor=white&link=mailto:caiohenrique.developer@gmail.com&style=flat-square)](mailto:caiohenrique.developer@gmail.com)
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=caiohenrique-developer) -->
+
 <br>
 
 ---
+
 <blockquote align="center">“Always running in search of the goals!”</blockquote>
