@@ -1,29 +1,21 @@
-<h2 align="center">Wazzup guys, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
+<h2 align="center">Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
 
 <br>
 
-![About me](https://img.shields.io/badge/📖-About%20%20me-blue)
-```
-I'm a professional dedicated to improving my technical skills
-and sharing knowledge with everyone, whenever possible.
-I have some years of experience in web development and counting ...
+#### About Me 📝
 
-This is my lifestyle:
-🏀 - basketball,
-🛹 - skateboarding,
-🎨 - graffiti,
-✍🏿 - digital art,
-🏋🏿 - gym,
-📸 - photography,
-👨‍👩‍👧‍👦 - family,
-🎒 - lifestyle,
-👨🏿‍💻 - techs,
-📚 - books,
-🗣️ - english and others.
+<p>
+  My experience in the technology area started just before 2013. <br>
+  I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
 
-Let's study, let's learn, let's share our knowledge forever!
-That's all, folks!
-```
+  How will it be done? <br>
+  Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
+
+  It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
+  So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
+  Excited by this discovery, I decided to enter this world once and for all.
+  Since then I have a few years' experience in various technologies, also working on my personal development.
+</p>
 
 <br>
 <br>
