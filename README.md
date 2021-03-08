@@ -20,13 +20,16 @@
 <br>
 <br>
 
-![My GitHub Stats](https://img.shields.io/badge/📈-My%20GitHub%20Stats-blue)
+#### My GitHub Stats 📈
 
 <a href="https://github.com/caiohenrique-developer">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
+  <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
 </a>
+
+<br>
+
 <a href="https://github.com/caiohenrique-developer">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
+  <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
 </a>
 
 <br>
