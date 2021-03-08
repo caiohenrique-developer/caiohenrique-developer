@@ -1,15 +1,15 @@
 {
   "name": "caiohenrique-developer",
   "version": "1.0.1",
-  "description": "<h2 align=\"center\">Wazzup guys, i'm Caio <img src=\"https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif\" width=\"22\"></h2>",
+  "description": "<h2 align=\"center\">Hello, i'm Caio <img src=\"https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif\" width=\"22\"></h2>",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caiohenrique-developer/caiohenrique-developer.git"
   },
   "keywords": [],
-  "author": "caiohenrique.developer@gmail.com",
-  "license": "ISC",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com> (https://github.com/caiohenrique-developer)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/caiohenrique-developer/caiohenrique-developer/issues"
   },
@@ -25,11 +25,6 @@
     },
     "cz-customizable": {
       "config": "./.cz-config.js"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "devDependencies": {
