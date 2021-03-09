@@ -61,7 +61,7 @@ const knowledge = {
 
 ---
 
-<blockquote align="center">“Always running in search of the goals!” <br> Done with ♥ by myself 👇 <a href="#-contact-me-">Get in touch!</a></blockquote>
+<blockquote align="center">“Always running in search of the goals!”</blockquote>
 
 <p align="center">
   <img align="center" alt="Profile Avatar" src="./assets/professional.png" width="80" />
