@@ -4,7 +4,7 @@
 
 #### About Me 📝
 
-<p>
+<small>
   My experience in the technology area started just before 2013. <br>
   I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
 
@@ -15,7 +15,7 @@
   So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
   Excited by this discovery, I decided to enter this world once and for all.
   Since then I have a few years' experience in various technologies, also working on my personal development.
-</p>
+</small>
 
 <br>
 <br>
@@ -36,18 +36,10 @@
 <br>
 <br>
 
-![Some Repositories](https://img.shields.io/badge/📁-Some%20Repositories-blue)
+#### Currently working 📁
 
-<a href="https://github.com/caiohenrique-developer/react-deploy">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=synthwave" />
-</a>
-
-<a href="https://github.com/caiohenrique-developer/be-the-hero-web">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=be-the-hero-web&theme=synthwave" />
-</a>
-
-<a href="https://github.com/caiohenrique-developer/place-of-studies">
-  <img width="49%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=place-of-studies&theme=synthwave" />
+<a href="https://github.com/caiohenrique-developer/moveit-web">
+  <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=moveit-web&theme=dark" />
 </a>
 
 <br>
