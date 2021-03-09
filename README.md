@@ -1,7 +1,5 @@
 <h2 align="center">Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
 
-<br>
-
 <h4>About Me 📝</h4>
 
 <p>
@@ -17,8 +15,21 @@
   Since then I have a few years' experience in various technologies, also working on my personal development.
 </p>
 
-<br>
-<br>
+```js
+const knowledge = {
+    me: {
+        name: 'Caio Henrique',
+        profession: 'Developer',
+        location: ['São Paulo','Brasil']
+    },
+    skills: {
+        hard: ['Html5','Css3','Sass','BEM','Flex Box','Styled Components','Javascript','jQuery','Vanilla','ES6+','Ajax','Emmet','GIT','GitHub','NodeJS','NPM','Yarn','ReactJS','React NativeJS','NextJS','SQL','Docker','Typescript'],
+        soft: ['English','Japanese','Programming logic','Share knowledge','Communication','Team work','Organization'],
+        design: ['Figma','Adobe XD','Adobe Illustrator','Adobe Photoshop'],
+        others: ['Notion','Trello','MeisterTask','Digital drawing']
+    }
+};
+```
 
 <details>
   <summary>Stats 🌟</summary>
@@ -43,8 +54,6 @@
     <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=moveit-web&theme=dark" />
   </a>
 </details>
-
-<br>
 
 <!-- <img alt="Contact Me" title="Contact Me" src="./assets/phone.svg" width="350" align="left" /> -->
 
