@@ -20,31 +20,30 @@
 <br>
 <br>
 
-<h4>My GitHub Stats 📈</h4>
+<details>
+  <summary>Stats 🌟</summary>
 
-<a href="https://github.com/caiohenrique-developer">
-  <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
-</a>
+  <h4>My GitHub Stats 📈</h4>
 
-<br>
+  <a href="https://github.com/caiohenrique-developer">
+    <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
+  </a>
 
-<a href="https://github.com/caiohenrique-developer">
-  <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
-</a>
+  <br>
 
-<br>
-<br>
-<br>
+  <a href="https://github.com/caiohenrique-developer">
+    <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
+  </a>
 
-<h4>Currently working 📁</h4>
+  <br>
 
-<a href="https://github.com/caiohenrique-developer/moveit-web">
-  <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=moveit-web&theme=dark" />
-</a>
+  <h4>Currently Working 📁</h4>
 
-<br>
-<br>
-<br>
+  <a href="https://github.com/caiohenrique-developer/moveit-web">
+    <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=moveit-web&theme=dark" />
+  </a>
+</details>
+
 <br>
 
 <!-- <img alt="Contact Me" title="Contact Me" src="./assets/phone.svg" width="350" align="left" /> -->
