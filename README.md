@@ -18,13 +18,13 @@
 ```js
 const knowledge = {
   me: {
-    name: "Caio Henrique",
+    name:       "Caio Henrique",
     profession: "Developer",
-    location: ["São Paulo", "Brasil"],
+    location:   ["São Paulo", "Brasil"],
   },
   skills: {
-    hard: ["Html5", "Css3", "Sass", "BEM", "Flex Box", "Styled Components", "Javascript", "jQuery", "Vanilla", "ES6+", "Ajax", "Emmet", "GIT", "GitHub", "NodeJS", "NPM", "Yarn", "ReactJS", "React NativeJS", "NextJS", "SQL", "Docker", "Typescript"],
-    soft: ["English", "Japanese", "Programming logic", "Share knowledge", "Communication", "Team work", "Personal organization"],
+    hard:   ["Html5", "Css3", "Sass", "BEM", "Flex Box", "Styled Components", "Javascript", "jQuery", "Vanilla", "ES6+", "Ajax", "Emmet", "GIT", "GitHub", "NodeJS", "NPM", "Yarn", "ReactJS", "React NativeJS", "NextJS", "SQL", "Docker", "Typescript"],
+    soft:   ["English", "Japanese", "Programming logic", "Share knowledge", "Communication", "Team work", "Personal organization"],
     design: ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"],
     others: ["Notion", "Trello", "MeisterTask", "Digital Drawing"],
   },
