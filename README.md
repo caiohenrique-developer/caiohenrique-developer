@@ -18,9 +18,9 @@
 ```js
 const knowledge = {
   me: {
-    name:       "Caio Henrique",
+    name: "Caio Henrique",
     profession: "Developer",
-    location:   ["São Paulo", "Brasil"],
+    location: ["São Paulo", "Brasil"],
   },
   skills: {
     hard:   ["Html5", "Css3", "Sass", "BEM", "Flex Box", "Styled Components", "Javascript", "jQuery", "Vanilla", "ES6+", "Ajax", "Emmet", "GIT", "GitHub", "NodeJS", "NPM", "Yarn", "ReactJS", "React NativeJS", "NextJS", "SQL", "Docker", "Typescript"],
