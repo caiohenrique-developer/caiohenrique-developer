@@ -3,23 +3,17 @@
 <details>
   <summary>About Me 📝</h4></summary>
 
-  <p>
-    My experience in the technology area started just before 2013. <br>
-    I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
+  My experience in the technology area started just before 2013. <br>
+  I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
 
-How will it be done? <br>
-Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
+  How will it be done? <br>
+  Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
 
-It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
-So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
-Excited by this discovery, I decided to enter this world once and for all.
-Since then I have a few years' experience in various technologies, also working on my personal development.
-
-  </p>
-
+  It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
+  So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
+  Excited by this discovery, I decided to enter this world once and for all.
+  Since then I have a few years' experience in various technologies, also working on my personal development.
 </details>
-
-<br>
 
 ```js
 const knowledge = {
