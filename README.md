@@ -50,8 +50,8 @@ const knowledge = {
 
   <h4>Currently Working 📁</h4>
 
-  <a href="https://github.com/caiohenrique-developer/moveit-web">
-    <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=moveit-web&theme=dark" />
+  <a href="https://github.com/caiohenrique-developer/suno-movies">
+    <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=suno-movies&theme=dark" />
   </a>
 </details>
 
