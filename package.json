@@ -1,19 +1,18 @@
 {
   "name": "caiohenrique-developer",
-  "version": "1.0.1",
   "description": "<h2 align=\"center\">Hello, i'm Caio <img src=\"https://github.com/caiohenrique-developer/caiohenrique-developer/blob/master/assets/Hi.gif\" width=\"22\"></h2>",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/caiohenrique-developer/caiohenrique-developer.git"
   },
-  "keywords": [],
-  "author": "Caio Henrique <caiohenrique.developer@gmail.com> (https://github.com/caiohenrique-developer)",
-  "license": "MIT",
-  "bugs": {
+    "bugs": {
     "url": "https://github.com/caiohenrique-developer/caiohenrique-developer/issues"
   },
-  "homepage": "https://github.com/caiohenrique-developer/caiohenrique-developer#readme",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com> (https://github.com/caiohenrique-developer)",
+  "version": "1.0.1",
+  "license": "MIT",
+  "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "semantic-release --no-ci",
