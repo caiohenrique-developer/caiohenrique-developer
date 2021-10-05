@@ -17,7 +17,7 @@
   Since then I have a few years' experience in various technologies, also working on my personal development.
 </details>
 
-<img width="40%" align="right" src="assets/animation_500_kue9gqga.gif" />
+<img width="30%" align="right" src="assets/animation_500_kue9gqga.gif" />
 
 ```js
 const knowledge = {
