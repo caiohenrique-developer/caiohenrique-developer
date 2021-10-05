@@ -1,18 +1,21 @@
-<h2 align="center">Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
+<h2>Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
+
+<br>
 
 <details>
   <summary>About Me 📝</h4></summary>
 
-  My experience in the technology area started just before 2013. <br>
-  I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
+My experience in the technology area started just before 2013. <br>
+I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
 
-  How will it be done? <br>
-  Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
+How will it be done? <br>
+Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
 
-  It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
-  So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
-  Excited by this discovery, I decided to enter this world once and for all.
-  Since then I have a few years' experience in various technologies, also working on my personal development.
+It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
+So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
+Excited by this discovery, I decided to enter this world once and for all.
+Since then I have a few years' experience in various technologies, also working on my personal development.
+
 </details>
 
 ```js
@@ -37,27 +40,17 @@ const knowledge = {
   <h4>My GitHub Stats 📈</h4>
 
   <a href="https://github.com/caiohenrique-developer">
-    <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
+    <img align="left" width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
   </a>
 
-  <br>
-
-  <a href="https://github.com/caiohenrique-developer">
+  <a href="https://github.com/caiohenrique-developer" style="margin-left: 20px">
     <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
-  </a>
-
-  <br>
-
-  <h4>Currently Working 📁</h4>
-
-  <a href="https://github.com/caiohenrique-developer/suno-movies">
-    <img width="250" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=suno-movies&theme=dark" />
   </a>
 </details>
 
-<!-- <img alt="Contact Me" title="Contact Me" src="./assets/phone.svg" width="350" align="left" /> -->
+<br>
 
-<h4 align="center">Contact Me ☎</h4>
+<h4>Contact Me ☎</h4>
 
 ---
 
