@@ -36,9 +36,9 @@ const knowledge = {
 ```
 
 <details>
-  <summary>Stats 🌟</summary>
+  <summary>Stats & Graph 📈🌟</summary>
 
-  <h4>My GitHub Stats 📈</h4>
+  [![“Always running in search of the goals!”](https://activity-graph.herokuapp.com/graph?username=caiohenrique-developer&bg_color=22272a&color=808080&line=755c00&point=ffbb00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <a href="https://github.com/caiohenrique-developer">
     <img align="left" width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
