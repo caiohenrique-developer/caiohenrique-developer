@@ -38,15 +38,18 @@ const knowledge = {
 <details open>
   <summary>Stats & Graph 📈🌟</summary>
 
+  <br>
+
   [![“Always running in search of the goals!”](https://activity-graph.herokuapp.com/graph?username=caiohenrique-developer&bg_color=2d333b&color=adbac6&line=755c00&point=ffbb00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://github.com/caiohenrique-developer">
-    <img align="left" width="280" height="100%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
-  </a>
-
-  <a href="https://github.com/caiohenrique-developer" style="margin-left: 20px">
-    <img width="280" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/caiohenrique-developer">
+      <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
+    </a>
+    <a href="https://github.com/caiohenrique-developer" style="margin-left: 20px">
+      <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
+    </a>
+  </p>
 </details>
 
 <br>
