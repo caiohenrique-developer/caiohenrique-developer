@@ -17,7 +17,7 @@
   Since then I have a few years' experience in various technologies, also working on my personal development.
 </details>
 
-<img width="30%" align="right" src="assets/animation_500_kue9gqga.gif" />
+<img width="30%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
 
 ```js
 const knowledge = {
@@ -35,7 +35,7 @@ const knowledge = {
 };
 ```
 
-<details open>
+<details>
   <summary>Stats & Graph 📈🌟</summary>
 
   <br>
