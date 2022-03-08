@@ -45,8 +45,8 @@ const knowledge = {
   <p align="center">
     <a href="https://github.com/caiohenrique-developer">
       <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=caiohenrique-developer&theme=maroongold&show_icons=true" />
-    </a>
-    <a href="https://github.com/caiohenrique-developer" style="margin-left: 20px">
+    </a> &nbsp;&nbsp;
+    <a href="https://github.com/caiohenrique-developer">
       <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrique-developer&hide=html&layout=compact&theme=maroongold" />
     </a>
   </p>
