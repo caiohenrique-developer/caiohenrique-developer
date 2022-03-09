@@ -1,4 +1,4 @@
-<h2>Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
+<h2 align="center">Hello, i'm Caio <img src="./assets/Hi.gif" width="22"></h2>
 
 <br>
 
