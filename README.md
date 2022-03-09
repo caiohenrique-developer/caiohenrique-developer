@@ -56,14 +56,13 @@ const knowledge = {
 
 <h4>Contact Me ☎</h4>
 
----
-
-<blockquote align="center">“Always running in search of the goals!”</blockquote>
-
 <p align="center">
-  <img align="center" alt="Profile Avatar" src="./assets/professional.png" width="80" />
+  <img align="center" alt="Profile Avatar" src="./assets/professional.png" width="88" />
   <a href="mailto:caiohenrique.developer@gmail.com">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/caiohenrique.developer@gmail.com-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a> <br>
+  <a href="https://api.whatsapp.com/send?phone=5511943902438&text=Fala%20Caio,%20como%20vai?">
+    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/(11)%2094390%202438-25D366?style=social&logo=whatsapp&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/caio-henrique-024627171">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Caio%20Henrique-0077B5?logo=linkedin&logoColor=white&style=flat" />
@@ -71,7 +70,8 @@ const knowledge = {
   <a href="https://discord.com/users/688203516967387177">
     <img align="center" alt="Discord" src="https://img.shields.io/badge/Caio%231333-7289DA?logo=discord&logoColor=white&style=flat" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511943902438&text=Fala%20Caio,%20como%20vai?">
-    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/(11)%2094390%202438-25D366?style=social&logo=whatsapp&logoColor=black" />
-  </a>
 </p>
+
+<blockquote align="center">“Always running in search of the goals!”</blockquote>
+
+---
