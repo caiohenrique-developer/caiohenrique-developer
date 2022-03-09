@@ -32,6 +32,7 @@ const knowledge = {
     design: ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"],
     others: ["Notion", "Trello", "MeisterTask", "Digital Drawing"],
   },
+  lifestyle: ['technology', 'gym', 'books', 'english', 'japanese', 'family', 'basketball', 'skateboarding', 'illustration', 'drawing', 'art', 'urban art', 'urban photography']
 };
 ```
 
