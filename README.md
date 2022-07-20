@@ -18,7 +18,7 @@ Since then I have a few years' experience in various technologies, also working 
 
 </details>
 
-<img width="100%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
+<img width="40%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
 
 ```js
 const knowledge = {
