@@ -18,7 +18,7 @@ Since then I have a few years' experience in various technologies, also working 
 
 </details>
 
-<img width="40%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
+<img width="350px" align="right" src="assets/animation_500_ku8mo6dg.gif" />
 
 ```js
 const knowledge = {
@@ -28,58 +28,12 @@ const knowledge = {
     location: ["São Paulo", "Brasil"],
   },
   skills: {
-    hard: [
-      "Html5",
-      "Css3",
-      "Sass",
-      "BEM",
-      "Flex Box",
-      "Styled Components",
-      "Javascript",
-      "jQuery",
-      "Vanilla",
-      "ES6+",
-      "Ajax",
-      "Emmet",
-      "GIT",
-      "GitHub",
-      "NodeJS",
-      "NPM",
-      "Yarn",
-      "ReactJS",
-      "React NativeJS",
-      "NextJS",
-      "SQL",
-      "Docker",
-      "Typescript",
-    ],
-    soft: [
-      "English",
-      "Japanese",
-      "Programming logic",
-      "Share knowledge",
-      "Communication",
-      "Team work",
-      "Personal organization",
-    ],
+    hard:   ["Html5", "Css3", "Sass", "BEM", "Flex Box", "Styled Components", "Javascript", "jQuery", "Vanilla", "ES6+", "Ajax", "Emmet", "GIT", "GitHub", "NodeJS", "NPM", "Yarn", "ReactJS", "React NativeJS", "NextJS", "SQL", "Docker", "Typescript"],
+    soft:   ["English", "Japanese", "Programming logic", "Share knowledge", "Communication", "Team work", "Personal organization"],
     design: ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"],
     others: ["Notion", "Trello", "MeisterTask", "Digital Drawing"],
   },
-  lifestyle: [
-    "technology",
-    "gym",
-    "books",
-    "english",
-    "japanese",
-    "family",
-    "basketball",
-    "skateboarding",
-    "illustration",
-    "drawing",
-    "art",
-    "urban art",
-    "urban photography",
-  ],
+  lifestyle: ['technology', 'gym', 'books', 'english', 'japanese', 'family', 'basketball', 'skateboarding', 'illustration', 'drawing', 'art', 'urban art', 'urban photography']
 };
 ```
 
