@@ -5,19 +5,20 @@
 <details>
   <summary>About Me 📝</h4></summary>
 
-  My experience in the technology area started just before 2013. <br>
-  I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
+My experience in the technology area started just before 2013. <br>
+I always liked the area but I had no idea how this world worked in a professional way, I saw the layouts of the Microsoft system or any other company and thought: <br>
 
-  How will it be done? <br>
-  Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
+How will it be done? <br>
+Do these boxes, buttons, menus already exist and someone just needs to assemble the screens, dragging the boxes as if it were a puzzle? <br>
 
-  It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
-  So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
-  Excited by this discovery, I decided to enter this world once and for all.
-  Since then I have a few years' experience in various technologies, also working on my personal development.
+It was out of this curiosity that I decided to look for a college and learn more about a technology course. I decided to join and it was in this course that I met and took many questions related to the area. <br>
+So knowing the world of programming I discovered that the systems were made from text codes. I came face to face with it, but I found it very interesting! <br>
+Excited by this discovery, I decided to enter this world once and for all.
+Since then I have a few years' experience in various technologies, also working on my personal development.
+
 </details>
 
-<img width="30%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
+<img width="100%" align="right" src="assets/animation_500_ku8mo6dg.gif" />
 
 ```js
 const knowledge = {
@@ -27,12 +28,58 @@ const knowledge = {
     location: ["São Paulo", "Brasil"],
   },
   skills: {
-    hard:   ["Html5", "Css3", "Sass", "BEM", "Flex Box", "Styled Components", "Javascript", "jQuery", "Vanilla", "ES6+", "Ajax", "Emmet", "GIT", "GitHub", "NodeJS", "NPM", "Yarn", "ReactJS", "React NativeJS", "NextJS", "SQL", "Docker", "Typescript"],
-    soft:   ["English", "Japanese", "Programming logic", "Share knowledge", "Communication", "Team work", "Personal organization"],
+    hard: [
+      "Html5",
+      "Css3",
+      "Sass",
+      "BEM",
+      "Flex Box",
+      "Styled Components",
+      "Javascript",
+      "jQuery",
+      "Vanilla",
+      "ES6+",
+      "Ajax",
+      "Emmet",
+      "GIT",
+      "GitHub",
+      "NodeJS",
+      "NPM",
+      "Yarn",
+      "ReactJS",
+      "React NativeJS",
+      "NextJS",
+      "SQL",
+      "Docker",
+      "Typescript",
+    ],
+    soft: [
+      "English",
+      "Japanese",
+      "Programming logic",
+      "Share knowledge",
+      "Communication",
+      "Team work",
+      "Personal organization",
+    ],
     design: ["Figma", "Adobe XD", "Adobe Illustrator", "Adobe Photoshop"],
     others: ["Notion", "Trello", "MeisterTask", "Digital Drawing"],
   },
-  lifestyle: ['technology', 'gym', 'books', 'english', 'japanese', 'family', 'basketball', 'skateboarding', 'illustration', 'drawing', 'art', 'urban art', 'urban photography']
+  lifestyle: [
+    "technology",
+    "gym",
+    "books",
+    "english",
+    "japanese",
+    "family",
+    "basketball",
+    "skateboarding",
+    "illustration",
+    "drawing",
+    "art",
+    "urban art",
+    "urban photography",
+  ],
 };
 ```
 
@@ -41,7 +88,7 @@ const knowledge = {
 
   <br>
 
-  [![“Always running in search of the goals!”](https://activity-graph.herokuapp.com/graph?username=caiohenrique-developer&bg_color=2d333b&color=adbac6&line=755c00&point=ffbb00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![“Always running in search of the goals!”](https://activity-graph.herokuapp.com/graph?username=caiohenrique-developer&bg_color=2d333b&color=adbac6&line=755c00&point=ffbb00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <p align="center">
     <a href="https://github.com/caiohenrique-developer">

@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/caiohenrique-developer/caiohenrique-developer.git"
   },
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/caiohenrique-developer/caiohenrique-developer/issues"
   },
   "author": "Caio Henrique <caiohenrique.developer@gmail.com> (https://github.com/caiohenrique-developer)",
@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "semantic-release --no-ci",
-    "commit": "git-cz"
+    "cm": "git-cz"
   },
   "config": {
     "commitizen": {
